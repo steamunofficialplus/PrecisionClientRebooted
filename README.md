@@ -1,13 +1,12 @@
 <h2 align="center">Precision Client
 </h2>
-<h3 align="center">The old repository for Precision Client. Rewritten and open-source version <a href="https://github.com/etcherfx/precisionclient/">here</a>
-</h3>
+
 <h4 align="center">Client link:
   <a href="https://precisionclient.vercel.app">https://precisionclient.vercel.app
   </a>
 </h4>
 <h4 align="center">The offline download is located
-  <a href="https://github.com/etcherfx/precisionclient/releases">here
+  <a href="[https://github.com/etcherfx/precisionclient/releases"](https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4)>here
   </a>
 </h4>
 <h4 align="center">Join the
