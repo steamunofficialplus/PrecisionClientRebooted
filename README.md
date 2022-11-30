@@ -5,10 +5,8 @@
   <a href="https://precisionclient.vercel.app">https://precisionclient.vercel.app
   </a>
 </h4>
-<h4 align="center">The offline download is located
-  <a href="[https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4"](https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4)>here
   </a>
-</h4>
+<h4 align="center">Offline Download Located in Releases
 <h4 align="center">Join the
   <a href="https://discord.gg/agFak6frsj">Discord
   </a> server for any questions
