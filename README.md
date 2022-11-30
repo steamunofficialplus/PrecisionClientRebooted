@@ -6,7 +6,7 @@
   </a>
 </h4>
 <h4 align="center">The offline download is located
-  <a href="[https://github.com/etcherfx/precisionclient/releases"](https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4)>here
+  <a href="[https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4"](https://github.com/PrecisionClient/PrecisionClient.old/releases/tag/beta_0.1.8.4)>here
   </a>
 </h4>
 <h4 align="center">Join the
