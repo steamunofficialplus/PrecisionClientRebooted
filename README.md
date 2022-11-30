@@ -1,4 +1,4 @@
-<h2 align="center">Precision Client
+<h2 align="center">Precision Client Rebooted
 </h2>
 
 <h4 align="center">Client link:
